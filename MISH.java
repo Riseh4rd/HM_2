@@ -14,6 +14,6 @@ public class MISH extends WIVOTNOE {
 
     @Override
     public void KUWAT() {
-        System.out.println("Мышка кушает семачку");
+        System.out.println("Мышка кушает ");
     }
 }
