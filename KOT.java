@@ -16,6 +16,6 @@ public class KOT extends WIVOTNOE {
 
     @Override
     public void KUWAT() {
-        System.out.println("Кот кушает еду для котов!");
+        System.out.println("Кот кушает ");
     }
 }
